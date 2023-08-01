@@ -1,6 +1,6 @@
 # React JS GitHub Directory - urssanjaysingh/React-JS
 
-Welcome to the GitHub repository for the React JS project - urssanjaysingh/React-JS!
+Welcome to the GitHub repository for the React JS - urssanjaysingh/React-JS!
 
 ## Overview
 
